@@ -1,0 +1,94 @@
+{
+    "users": [{
+            "id": 1,
+            "nama": "Rian",
+            "alamat": "kademangan",
+            "umur": 23
+        },
+        {
+            "id": 2,
+            "nama": "asdsdf",
+            "alamat": "sfxcvd",
+            "umur": 35
+        },
+        {
+            "id": 3,
+            "nama": "adaczxc",
+            "alamat": "asdazxcas",
+            "umur": 24
+        },
+        {
+            "id": 4,
+            "nama": "Riasd adaan",
+            "alamat": "kademasdasdangan",
+            "umur": 63
+        },
+        {
+            "id": 5,
+            "nama": "asdas asd a",
+            "alamat": "asdcxz",
+            "umur": 14
+        },
+        {
+            "id": 6,
+            "nama": "xzcz qwe",
+            "alamat": "kademzxczxcangan",
+            "umur": 23
+        },
+        {
+            "id": 7,
+            "nama": "zxc qa",
+            "alamat": "zczxqe",
+            "umur": 34
+        },
+        {
+            "id": 8,
+            "nama": "zxc qwxz",
+            "alamat": "zxcwzxqw zxc",
+            "umur": 89
+        },
+        {
+            "id": 9,
+            "nama": "zxc zqwzx",
+            "alamat": "x czx qwzx",
+            "umur": 34
+        },
+        {
+            "id": 10,
+            "nama": "zxca zx",
+            "alamat": "kademzxangan",
+            "umur": 23
+        },
+        {
+            "id": 11,
+            "nama": "qraszc fasd",
+            "alamat": "wezd c",
+            "umur": 64
+        },
+        {
+            "id": 12,
+            "nama": "qwrasc adzxcx",
+            "alamat": "zxc qzsc x",
+            "umur": 45
+        },
+        {
+            "id": 13,
+            "nama": "dfazsdfx zxc",
+            "alamat": "afzxcqw",
+            "umur": 67
+        },
+        {
+            "id": 14,
+            "nama": "Riadzxf adfn",
+            "alamat": "qeasdfx ",
+            "umur": 23
+        },
+        {
+            "id": 15,
+            "nama": "awrxf qawasd",
+            "alamat": "xc zxca",
+            "umur": 34
+        }
+
+    ]
+}
